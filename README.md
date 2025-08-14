@@ -49,7 +49,7 @@ To customize this portfolio:
 
 For any questions or inquiries, please contact Ayush at:
 - Email: notangry007@gmail.com
-- Phone: +91 9818275208
+- Phone: +977 9818275208
 
 ## License
 

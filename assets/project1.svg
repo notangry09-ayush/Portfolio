@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f0f4ff" />
+  
+  <!-- Project Illustration: Campus Connect -->
+  <!-- Laptop -->
+  <rect x="250" y="150" width="300" height="200" rx="10" fill="#333" />
+  <rect x="270" y="170" width="260" height="160" rx="5" fill="#fff" />
+  <rect x="200" y="350" width="400" height="20" rx="10" fill="#333" />
+  
+  <!-- Website Content on Screen -->
+  <!-- Header -->
+  <rect x="270" y="170" width="260" height="30" fill="#4a6cf7" />
+  <circle cx="290" cy="185" r="5" fill="white" />
+  <rect x="305" y="180" width="50" height="10" rx="5" fill="white" />
+  <rect x="365" y="180" width="50" height="10" rx="5" fill="white" />
+  <rect x="425" y="180" width="50" height="10" rx="5" fill="white" />
+  
+  <!-- Content -->
+  <rect x="290" y="210" width="100" height="100" rx="5" fill="#f8f9fa" />
+  <rect x="290" y="320" width="100" height="10" rx="5" fill="#6c757d" />
+  
+  <rect x="410" y="210" width="100" height="10" rx="5" fill="#6c757d" />
+  <rect x="410" y="230" width="100" height="10" rx="5" fill="#6c757d" />
+  <rect x="410" y="250" width="100" height="10" rx="5" fill="#6c757d" />
+  <rect x="410" y="270" width="80" height="10" rx="5" fill="#6c757d" />
+  <rect x="410" y="300" width="60" height="20" rx="10" fill="#4a6cf7" />
+  
+  <!-- Title -->
+  <text x="400" y="450" font-family="Arial" font-size="24" font-weight="bold" fill="#333" text-anchor="middle">Campus Connect</text>
+  
+  <!-- Decorative Elements -->
+  <circle cx="100" cy="100" r="50" fill="#4a6cf7" opacity="0.1" />
+  <circle cx="700" cy="400" r="70" fill="#4a6cf7" opacity="0.1" />
+  
+  <!-- Icons representing features -->
+  <circle cx="150" cy="250" r="30" fill="#4a6cf7" opacity="0.2" />
+  <text x="150" y="255" font-family="Arial" font-size="20" fill="#4a6cf7" text-anchor="middle">📚</text>
+  
+  <circle cx="650" cy="250" r="30" fill="#4a6cf7" opacity="0.2" />
+  <text x="650" y="255" font-family="Arial" font-size="20" fill="#4a6cf7" text-anchor="middle">💬</text>
+  
+  <circle cx="150" cy="350" r="30" fill="#4a6cf7" opacity="0.2" />
+  <text x="150" y="355" font-family="Arial" font-size="20" fill="#4a6cf7" text-anchor="middle">📝</text>
+  
+  <circle cx="650" cy="350" r="30" fill="#4a6cf7" opacity="0.2" />
+  <text x="650" y="355" font-family="Arial" font-size="20" fill="#4a6cf7" text-anchor="middle">📊</text>
+</svg>

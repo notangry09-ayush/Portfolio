@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f0f4ff" />
+  
+  <!-- Project Illustration: StudyBuddy App -->
+  <!-- Smartphone -->
+  <rect x="300" y="100" width="200" height="350" rx="20" fill="#333" />
+  <rect x="310" y="120" width="180" height="310" rx="5" fill="#fff" />
+  <circle cx="400" cy="440" r="15" fill="#f8f9fa" stroke="#333" stroke-width="1" />
+  
+  <!-- App Content on Screen -->
+  <!-- Header -->
+  <rect x="310" y="120" width="180" height="40" fill="#4a6cf7" />
+  <text x="400" y="145" font-family="Arial" font-size="16" fill="white" text-anchor="middle">StudyBuddy</text>
+  
+  <!-- Content -->
+  <!-- Calendar Section -->
+  <rect x="320" y="170" width="160" height="80" rx="5" fill="#f8f9fa" />
+  <line x1="320" y1="190" x2="480" y2="190" stroke="#6c757d" stroke-width="1" />
+  <text x="330" y="185" font-family="Arial" font-size="12" fill="#333">September 2023</text>
+  
+  <circle cx="340" cy="210" r="10" fill="#4a6cf7" opacity="0.2" />
+  <text x="340" y="214" font-family="Arial" font-size="10" fill="#333" text-anchor="middle">1</text>
+  
+  <circle cx="370" cy="210" r="10" fill="#4a6cf7" opacity="0.2" />
+  <text x="370" y="214" font-family="Arial" font-size="10" fill="#333" text-anchor="middle">2</text>
+  
+  <circle cx="400" cy="210" r="10" fill="#4a6cf7" />
+  <text x="400" y="214" font-family="Arial" font-size="10" fill="white" text-anchor="middle">3</text>
+  
+  <circle cx="430" cy="210" r="10" fill="#4a6cf7" opacity="0.2" />
+  <text x="430" y="214" font-family="Arial" font-size="10" fill="#333" text-anchor="middle">4</text>
+  
+  <circle cx="460" cy="210" r="10" fill="#4a6cf7" opacity="0.2" />
+  <text x="460" y="214" font-family="Arial" font-size="10" fill="#333" text-anchor="middle">5</text>
+  
+  <circle cx="340" cy="240" r="10" fill="#4a6cf7" opacity="0.2" />
+  <text x="340" y="244" font-family="Arial" font-size="10" fill="#333" text-anchor="middle">6</text>
+  
+  <circle cx="370" cy="240" r="10" fill="#4a6cf7" opacity="0.2" />
+  <text x="370" y="244" font-family="Arial" font-size="10" fill="#333" text-anchor="middle">7</text>
+  
+  <!-- Tasks Section -->
+  <rect x="320" y="260" width="160" height="150" rx="5" fill="#f8f9fa" />
+  <text x="330" y="280" font-family="Arial" font-size="14" font-weight="bold" fill="#333">Today's Tasks</text>
+  
+  <rect x="330" y="290" width="140" height="30" rx="5" fill="white" stroke="#6c757d" stroke-width="1" />
+  <text x="340" y="310" font-family="Arial" font-size="12" fill="#333">Math Assignment</text>
+  <rect x="450" y="295" width="10" height="10" rx="2" fill="#4a6cf7" />
+  
+  <rect x="330" y="330" width="140" height="30" rx="5" fill="white" stroke="#6c757d" stroke-width="1" />
+  <text x="340" y="350" font-family="Arial" font-size="12" fill="#333">Study Group - 3PM</text>
+  <rect x="450" y="335" width="10" height="10" rx="2" fill="white" stroke="#6c757d" stroke-width="1" />
+  
+  <rect x="330" y="370" width="140" height="30" rx="5" fill="white" stroke="#6c757d" stroke-width="1" />
+  <text x="340" y="390" font-family="Arial" font-size="12" fill="#333">Research Paper</text>
+  <rect x="450" y="375" width="10" height="10" rx="2" fill="white" stroke="#6c757d" stroke-width="1" />
+  
+  <!-- Title -->
+  <text x="400" y="480" font-family="Arial" font-size="24" font-weight="bold" fill="#333" text-anchor="middle">StudyBuddy App</text>
+  
+  <!-- Decorative Elements -->
+  <circle cx="150" cy="150" r="50" fill="#4a6cf7" opacity="0.1" />
+  <circle cx="650" cy="350" r="70" fill="#4a6cf7" opacity="0.1" />
+  
+  <!-- Icons representing features -->
+  <circle cx="150" cy="250" r="30" fill="#4a6cf7" opacity="0.2" />
+  <text x="150" y="255" font-family="Arial" font-size="20" fill="#4a6cf7" text-anchor="middle">📅</text>
+  
+  <circle cx="650" cy="250" r="30" fill="#4a6cf7" opacity="0.2" />
+  <text x="650" y="255" font-family="Arial" font-size="20" fill="#4a6cf7" text-anchor="middle">⏰</text>
+  
+  <circle cx="150" cy="350" r="30" fill="#4a6cf7" opacity="0.2" />
+  <text x="150" y="355" font-family="Arial" font-size="20" fill="#4a6cf7" text-anchor="middle">📝</text>
+  
+  <circle cx="650" cy="150" r="30" fill="#4a6cf7" opacity="0.2" />
+  <text x="650" y="155" font-family="Arial" font-size="20" fill="#4a6cf7" text-anchor="middle">👥</text>
+</svg>

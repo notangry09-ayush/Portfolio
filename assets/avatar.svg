@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Background Circle -->
+  <circle cx="250" cy="250" r="240" fill="#f0f4ff" />
+  
+  <!-- Head -->
+  <circle cx="250" cy="180" r="100" fill="#FFD3B5" />
+  
+  <!-- Hair -->
+  <path d="M250 80 Q 300 50 350 100 Q 380 150 350 200 Q 300 250 250 230 Q 200 250 150 200 Q 120 150 150 100 Q 200 50 250 80" fill="#333" />
+  
+  <!-- Eyes -->
+  <circle cx="210" cy="170" r="10" fill="#333" />
+  <circle cx="290" cy="170" r="10" fill="#333" />
+  
+  <!-- Eyebrows -->
+  <path d="M190 150 Q 210 140 230 150" stroke="#333" stroke-width="5" fill="none" />
+  <path d="M270 150 Q 290 140 310 150" stroke="#333" stroke-width="5" fill="none" />
+  
+  <!-- Smile -->
+  <path d="M220 210 Q 250 240 280 210" stroke="#333" stroke-width="5" fill="none" />
+  
+  <!-- Glasses -->
+  <rect x="185" y="160" width="50" height="25" rx="10" ry="10" fill="none" stroke="#4a6cf7" stroke-width="3" />
+  <rect x="265" y="160" width="50" height="25" rx="10" ry="10" fill="none" stroke="#4a6cf7" stroke-width="3" />
+  <line x1="235" y1="172" x2="265" y2="172" stroke="#4a6cf7" stroke-width="3" />
+  
+  <!-- Body/Shirt -->
+  <path d="M175 280 Q 250 300 325 280 L 350 400 L 250 450 L 150 400 Z" fill="#4a6cf7" />
+  
+  <!-- Collar -->
+  <path d="M230 280 L 250 320 L 270 280" fill="white" />
+  
+  <!-- Laptop -->
+  <rect x="200" y="350" width="100" height="60" rx="5" ry="5" fill="#333" />
+  <rect x="205" y="355" width="90" height="50" rx="2" ry="2" fill="#f8f9fa" />
+  <rect x="180" y="410" width="140" height="10" rx="5" ry="5" fill="#333" />
+</svg>

@@ -31,25 +31,14 @@ This portfolio website is built using HTML, CSS, and JavaScript. It features a m
 - Font Awesome for icons
 - SVG for illustrations
 
-## How to Run
 
-1. Simply open the `index.html` file in any modern web browser.
-2. No server or build process is required as this is a static website.
 
-## Customization
-
-To customize this portfolio:
-
-1. Edit the `index.html` file to update content
-2. Modify the `styles.css` file to change the appearance
-3. Update the `script.js` file to alter functionality
-4. Replace SVG files in the `assets` folder to change illustrations
 
 ## Contact
 
 For any questions or inquiries, please contact Ayush at:
 - Email: notangry007@gmail.com
-- Phone: +977 9818275208
+- Whatsapp: +977 9818275208
 
 ## License
 
